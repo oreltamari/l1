@@ -10,7 +10,7 @@ export default function Strip() {
       
       }} className='d-flex justify-content-center align-items-center text-center'>
       <div className='container text-light'>
-        <h1 className='display-2'>VOD App</h1>
+        <h1 className='display-2'>VOD App 222</h1>
       </div>
     </div>
   )
